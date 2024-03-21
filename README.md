@@ -25,7 +25,11 @@ You first need to download Min JW in Windows you can download it from the site b
 
 https://www.mingw-w64.org/downloads/
 
+After you have installed and added it to the puff، tap the command below in your commandline or PowerShell.
 
+```sh
+git clone https://github.com/keyvanplays/keyvan-shell-script
+```
 
 
 
