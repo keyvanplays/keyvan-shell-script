@@ -21,7 +21,7 @@ Shell scripts are powerful tools that allow developers to automate repetitive ta
 # How to run this script
 
 ## windows
-You first need to download Min JW in Windows you can download it from the site below:
+You first need to download MinGW in Windows you can download it from the site below:
 
 https://www.mingw-w64.org/downloads/
 
