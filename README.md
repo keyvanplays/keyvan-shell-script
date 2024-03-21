@@ -53,6 +53,7 @@ If you have the correct commands, you have .exe file, then click on the file.
 
 ## linux
 
+note:I'm using Ubuntu and the commands are from Ubuntu/Debian.
 
 open terminal and run this commands:
 
