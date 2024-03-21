@@ -81,7 +81,10 @@ git clone https://github.com/keyvanplays/keyvan-shell-script
 ```sh
 g++ main.cpp
 ```
-
+7.
+```sh
+./a.out
+```
 ## Benefits of Using Shell Scripts
 
 - Automation of tasks: Shell scripts enable you to automate repetitive tasks.
