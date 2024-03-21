@@ -37,8 +37,9 @@ https://git-scm.com/downloads
 
 Or you can do it by hitting the following command in PowerShell yourself:
 
+```sh
 winget install --id Git.Git -e --source winget
-
+```
 
 
 
