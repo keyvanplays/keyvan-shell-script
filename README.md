@@ -57,31 +57,31 @@ note:I'm using Ubuntu and the commands are from Ubuntu/Debian.
 
 open terminal and run this commands:
 
-1.
+1.update
 ```sh
 sudo apt update
 ```
-2.
+2.upgrade
 ```sh
 sudo apt upgrade
 ```
-3.
+3.install git
 ```sh
 sudo apt install git
 ```
-4.
+4.install build-essential
 ```sh
 sudo apt install build-essential
 ```
-5.
+5.install project
 ```sh
 git clone https://github.com/keyvanplays/keyvan-shell-script
 ```
-6.
+6.convert to .out
 ```sh
 g++ main.cpp
 ```
-7.
+7.run app
 ```sh
 ./a.out
 ```
