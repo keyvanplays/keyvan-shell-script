@@ -31,6 +31,16 @@ After you have installed and added it to the puff، tap the command below in you
 git clone https://github.com/keyvanplays/keyvan-shell-script
 ```
 
+Note that to run the command above you need Git download it from the following site
+
+https://git-scm.com/downloads
+
+Or you can do it by hitting the following command in PowerShell yourself:
+
+winget install --id Git.Git -e --source winget
+
+
+
 
 
 ## linux
