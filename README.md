@@ -47,6 +47,8 @@ After you have completed the project, go to the project folder and command the f
 g++ main.cpp
 ```
 
+If you have the correct commands, you have .exe file, then click on the file.
+
 
 ## linux
 
