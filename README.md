@@ -74,8 +74,10 @@ sudo apt install git
 ```sh
 sudo apt install build-essential
 ```
-
-
+5.
+```sh
+git clone https://github.com/keyvanplays/keyvan-shell-script
+```
 
 
 ## Benefits of Using Shell Scripts
