@@ -54,6 +54,17 @@ If you have the correct commands, you have .exe file, then click on the file.
 ## linux
 
 
+open terminal and run this commands:
+
+1.
+```sh
+sudo apt update
+```
+2.
+```sh
+sudo apt upgrade
+```
+
 
 ## Benefits of Using Shell Scripts
 
