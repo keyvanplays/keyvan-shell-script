@@ -41,7 +41,7 @@ Or you can do it by hitting the following command in PowerShell yourself:
 winget install --id Git.Git -e --source winget
 ```
 
-
+After you have completed the project, go to the project folder and command the following in command line or PowerShell.
 
 
 ## linux
@@ -57,4 +57,3 @@ winget install --id Git.Git -e --source winget
 ## Conclusion
 
 Shell scripts provide valuable tools for developers to improve their productivity.
-
