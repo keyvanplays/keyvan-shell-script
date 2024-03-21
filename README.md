@@ -23,7 +23,6 @@ Shell scripts are powerful tools that allow developers to automate repetitive ta
 ## windows
 You first need to download Min JW in Windows you can download it from the site below:
 
-
 https://www.mingw-w64.org/downloads/
 
 
