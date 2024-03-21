@@ -65,7 +65,6 @@ sudo apt update
 ```sh
 sudo apt upgrade
 ```
-
 3.
 ```sh
 sudo apt install git
@@ -78,7 +77,10 @@ sudo apt install build-essential
 ```sh
 git clone https://github.com/keyvanplays/keyvan-shell-script
 ```
-
+6.
+```sh
+g++ main.cpp
+```
 
 ## Benefits of Using Shell Scripts
 
