@@ -25,7 +25,7 @@ You first need to download MinGW in Windows you can download it from the site be
 
 https://www.mingw-w64.org/downloads/
 
-After you have installed and added it to the puff، tap the command below in your commandline or PowerShell.
+After you have installed and added it to the path، tap the command below in your commandline or PowerShell.
 
 ```sh
 git clone https://github.com/keyvanplays/keyvan-shell-script
