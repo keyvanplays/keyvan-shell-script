@@ -66,6 +66,17 @@ sudo apt update
 sudo apt upgrade
 ```
 
+3.
+```sh
+sudo apt install git
+```
+4.
+```sh
+sudo apt install build-essential
+```
+
+
+
 
 ## Benefits of Using Shell Scripts
 
