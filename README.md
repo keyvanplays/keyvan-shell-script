@@ -3,11 +3,11 @@
 
 
 
-#about me
+call with me:
 email: king123.hajahmadi@gmail.com
 
 
-#Friends
+Friends:
 SINAXS  Id telegram:SINAXSZ
 h00z3x  his github : https://github.com/h00z3x
 
@@ -15,7 +15,11 @@ h00z3x  his github : https://github.com/h00z3x
 
 # Shell Scripts and Speeding Up File Execution
 
-Shell scripts are powerful tools that allow developers to automate repetitive tasks. These scripts can be executed directly in Linux and Unix environments and are also executable in Windows using WSL.
+Shell scripts are powerful tools that allow developers to automate repetitive tasks.
+
+## How to run this script
+
+
 
 ## Benefits of Using Shell Scripts
 
