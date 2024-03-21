@@ -43,6 +43,10 @@ winget install --id Git.Git -e --source winget
 
 After you have completed the project, go to the project folder and command the following in command line or PowerShell.
 
+```sh
+g++ main.cpp
+```
+
 
 ## linux
 
